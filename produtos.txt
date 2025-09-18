@@ -1,0 +1,9 @@
+Camiseta;55.93;54
+Bermuda;35.99;58
+Kit meia;15.99;113
+Kit cuecas;89.9;109
+Kit calcinha;57.85;120
+Kit sutiã;45.25;151
+calça masculina moletom;55.99;76
+calça masculina jeans;160.95;71
+calça feminina jeans;260.99;69
